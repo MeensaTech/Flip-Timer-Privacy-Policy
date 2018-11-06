@@ -1,4 +1,4 @@
-##Flip Timer Privacy Policy
+## Flip Timer Privacy Policy
 
 Shuyong Jia built the Flip Timer app as a Free app. This SERVICE is provided by Shuyong Jia at no cost and is intended for use as is.
 
